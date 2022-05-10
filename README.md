@@ -1,8 +1,4 @@
 # Backend Criptomoedas
 
-Esta aplicação possui apenas dois serviços:
-
-* Serviço de Criptomoeda
-* Serviço de Cotação
-
+Esta aplicação possui o serviço de clients:
 Base de dados: AWS DynamoDB
